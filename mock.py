@@ -15,6 +15,3 @@ def diagonalDiffernce(arr):
     # teturn the absolute value
     return abs(left_to_right - right_to_left)
         
-
-a = [[1,2,3],[4,5,6],[9,8,9]]
-print(diagonalDiffernce(a))
